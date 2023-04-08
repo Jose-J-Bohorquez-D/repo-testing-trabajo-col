@@ -1,1 +1,4 @@
 el viejo nare aprendiendo el git
+
+ya aprendi un poco
+pueba para el merge
